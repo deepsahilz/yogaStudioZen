@@ -34,7 +34,7 @@ export default function DashboardPage() {
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
         {cards.map((card) => (
           <Card key={card.key}>
-            <CardHeader className="flex flex-row items-center justify-between pb-2">
+            <CardHeader className="flex flex-row items-center justify-between md:pb-2">
               <CardTitle className="text-sm font-medium text-muted-foreground">{card.label}</CardTitle>
               <card.icon className={`h-5 w-5 ${card.color}`} />
             </CardHeader>
