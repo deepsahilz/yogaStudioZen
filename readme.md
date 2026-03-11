@@ -2,6 +2,8 @@
 
 **YogaStudioZen** is a modern yoga management website built for a professional yoga studio. It helps manage classes, instructors, attendance, and overall studio operations with a clean and minimal interface.
 
+This project was also used as an experiment to explore the capabilities of **AI-assisted and agentic development tools** during the development process.
+
 ---
 
 ## 🚀 Tech Stack
@@ -16,12 +18,12 @@
 
 ## ✨ Features
 
-- 📅 Class scheduling & management
-- 👩‍🏫 Instructor profiles
-- 📝 Class booking system
-- 📊 Admin dashboard
-- ✅ Attendance tracking
-- 🔐 Secure database connection
+- 📅 Class scheduling & management  
+- 👩‍🏫 Instructor profiles  
+- 📝 Class booking system  
+- 📊 Admin dashboard  
+- ✅ Attendance tracking  
+- 🔐 Secure database connection  
 
 ---
 
@@ -91,9 +93,9 @@ Deployment Steps:
 
 ## 🔒 Environment Variables
 
-| Variable       | Description                          |
-|---------------|--------------------------------------|
-| DATABASE_URL  | Neon PostgreSQL database connection URL |
+| Variable | Description |
+|----------|-------------|
+| DATABASE_URL | Neon PostgreSQL database connection URL |
 
 ---
 
@@ -111,4 +113,4 @@ This project is intended for internal use by YogaStudioZen Studio.
 
 ---
 
-Made with ❤️ using Next.js + TypeScript
+Made with ❤️ using **Next.js** + **TypeScript**
