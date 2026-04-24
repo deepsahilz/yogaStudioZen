@@ -1,4 +1,5 @@
 # 🧘‍♀️ YogaStudioZen
+This readme file is updated for demonstration purpose
 
 **YogaStudioZen** is a modern yoga management website built for a professional yoga studio. It helps manage classes, instructors, attendance, and overall studio operations with a clean and minimal interface.
 
